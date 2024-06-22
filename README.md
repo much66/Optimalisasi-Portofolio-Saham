@@ -58,7 +58,7 @@ Perusahaan Hedge Fund dan Reksa Dana menghadapi tantangan dalam mengelola portof
 
 <br>
 <p align="center">
-    <kbd> <img width="800" alt="feats" src="#"> </kbd> <br>
+    <kbd> <img width="1000" alt="feats" src="Komparasi.png"> </kbd> <br>
     Gambar 2 — Perbandingan model
 </p>
 <br>
