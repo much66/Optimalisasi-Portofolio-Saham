@@ -45,11 +45,16 @@ Perusahaan Hedge Fund dan Reksa Dana menghadapi tantangan dalam mengelola portof
 <br>
 
 ## 📂 Modeling and Evaluation
-- Split dataset dengan rasio 80% Train : 20% Test
-- Mengatasi data Train yang tidak seimbang menggunakan RandomUnderSampler
-- Scaling data dengan RobustScaler
-- Eksperimen menggunakan beberapa algoritma Logistic Regression, Random Forest, dan XGBoost
-- Best fit model didapatkan menggunakan Logistic Regression dengan hyperparameter tuning, menghasilkan akurasi 87% dan AUC 73%
+- Pembagian Dataset
+    - Dataset dibagi dengan rasio 80% untuk data latih (Train) dan 20% untuk data uji (Test).
+- Percobaan dengan Beberapa Metode
+    - Dilakukan percobaan menggunakan beberapa metode seperti Prophet, ARIMA, Neural Prophet, dan Exponential Smoothing.
+    - Evaluasi dilakukan menggunakan Mean Absolute Percentage Error (MAPE) untuk mengukur akurasi prediksi.
+- Hasil Percobaan
+    - ARIMA: MAPE 0.3009
+    - Exponential Smoothing: MAPE 0.0720
+    - Neural Prophet: MAPE 0.1730
+    - Prophet: MAPE 0.036 (Akurasi tertinggi)
 
 <br>
 <p align="center">
@@ -63,3 +68,9 @@ Perusahaan Hedge Fund dan Reksa Dana menghadapi tantangan dalam mengelola portof
 - Penggunaan Metode Prophet dan Simulasi Monte Carlo: Gunakan Prophet untuk prediksi harga saham dan Simulasi Monte Carlo untuk memperkirakan skenario pergerakan harga di masa depan, memahami risiko dan return dengan lebih baik.
 - Portofolio Jangka Pendek: Fokuskan investasi pada jangka pendek (1-3 bulan) untuk responsif terhadap perubahan pasar, monitor kinerja secara berkala, dan sesuaikan portofolio dengan analisis risiko terkini.
 - Diversifikasi Saham dengan Volatilitas dan VaR Terendah: Diversifikasikan portofolio dengan saham berisiko rendah, prioritaskan kestabilan harga dan minimalkan potensi kerugian, sehingga portofolio tetap terlindungi dari fluktuasi ekstrem dan memberikan return yang stabil.
+
+
+<p align="center">
+    <kbd> <img width="800" alt="feats" src="Dashboard Portofolio.jpg"> </kbd> <br>
+    Gambar 3 — Dashboard Saham Optimal
+</p>
