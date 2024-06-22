@@ -1,7 +1,7 @@
 # Optimalisasi-Portofolio-Saham
 
 **Dataset** : [source](https://www.kaggle.com/competitions/home-data-for-ml-course/data) <br>
-**Notebook** : [view](https://github.com/much66/Housing-Prices-Using-RFRegressor/blob/main/Housing%20Prices%20Regression.ipynb)<br>
+**Notebook** : [view](https://github.com/much66/Optimalisasi-Portofolio-Saham/blob/main/Banking_Stock_Forecasting.ipynb)<br>
 **Deck** : [view](https://github.com/much66/Optimalisasi-Portofolio-Saham/blob/main/Deck%20Presentasi.pdf)<br>
 
 <br>
@@ -16,19 +16,17 @@
 
 ## 📂 Business Understanding
 ### Problem Statement
-Home Credit Indonesia merupakan perusahaan yang memberikan layanan kredit  yang mudah, cepat, dan terjangkau kepada masyarakat. Salah satu permasalahan yang terjadi pada perusahaan ini adalah adanya nasabah yang gagal dalam pembayaran kredit. Apabila banyak pelanggan yang mengalami masalah ini, maka akan berdampak secara signifikan bagi perusahaan.
-
-Menurut artikel yang diterbitkan di Harvard Business Review, dinyatakan bahwa "*Non-payment by consumers can set off a chain reaction of bad debts, lower profits, layoffs, and even bankruptcies, ultimately affecting entire industries and even economies.*" 
-
-Oleh karena itu, mengidentifikasi nasabah yang memiliki kemungkinan besar mengalami kegagalan dalam membayar kredit penting untuk dilakukan. Hal ini dapat menjadi tindakan preventif bagi perusahaan dan memastikan pelanggan yang mampu melakukan pelunasan tidak ditolak ketika melakukan pengajuan pinjaman.
+Perusahaan Hedge Fund dan Reksa Dana menghadapi tantangan dalam mengelola portofolio investasi mereka di tengah volatilitas pasar yang tinggi. Volatilitas ini dapat mengakibatkan risiko kerugian yang signifikan bagi perusahaan dan investor mereka. Oleh karena itu, perusahaan memerlukan solusi untuk memprediksi pergerakan harga saham, menghitung risiko dengan Value at Risk (VaR) dan Volatilitas, serta mengoptimalkan portofolio investasi untuk meminimalkan risiko dan memaksimalkan return.
 
 ### Goals
-- Loss Reduction, mengurangi dampak kerugian yang ditimbulkan oleh "Default Customer" yang memiliki potensi gagal bayar.
-- Memutuskan bahwa pengajuan pinjaman dapat diterima atau ditolak
+- Meminimalkan Risiko: Mengidentifikasi dan meminimalkan risiko kerugian yang terkait dengan volatilitas pasar dalam portofolio Hedge Fund dan Reksa Dana.
+- Memaksimalkan Return: Mengoptimalkan portofolio investasi untuk mencapai return yang optimal sambil mempertahankan risiko pada level yang dapat diterima.
   
 ### Objectives
-- Membuat prediktif model untuk memprediksi dan mengklasifikasikan nasabah berpotensi gagal bayar atau tidak
-- Mengidentifikasi karakteristik nasabah yang berpotensi gagal bayar
+- Membuat Prediksi Harga Saham: Mengembangkan model prediksi menggunakan Prophet untuk memprediksi harga saham perusahaan Hedge Fund dan Reksa Dana.
+- Menghitung VaR dan Volatilitas: Menggunakan hasil prediksi untuk menghitung Value at Risk (VaR) dan Volatilitas portofolio investasi.
+- Optimasi Portofolio: Mengidentifikasi komposisi portofolio optimal dengan VaR dan Volatilitas terendah untuk meminimalkan risiko dan memaksimalkan return.
+
 <br>
 
 
