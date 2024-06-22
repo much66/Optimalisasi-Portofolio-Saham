@@ -32,7 +32,7 @@ Perusahaan Hedge Fund dan Reksa Dana menghadapi tantangan dalam mengelola portof
 
 ## 📂 Workflow
 <p align="center">
-    <kbd> <img width="1000" alt="workflow" src="#"> </kbd> <br>
+    <kbd> <img width="1000" alt="workflow" src="Workflow Forecasting.png"> </kbd> <br>
     Gambar 1 — Workflow Pembuatan Model
 </p>
 <br>
