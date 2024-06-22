@@ -2,6 +2,7 @@
 
 **Dataset** : [source](https://www.kaggle.com/competitions/home-data-for-ml-course/data) <br>
 **Notebook** : [view](https://github.com/much66/Housing-Prices-Using-RFRegressor/blob/main/Housing%20Prices%20Regression.ipynb)<br>
+**Deck** : [view](https://github.com/much66/Optimalisasi-Portofolio-Saham/blob/main/Deck%20Presentasi.pdf)<br>
 
 <br>
 
