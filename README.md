@@ -72,5 +72,5 @@ Perusahaan Hedge Fund dan Reksa Dana menghadapi tantangan dalam mengelola portof
 
 <p align="center">
     <kbd> <img width="800" alt="feats" src="Dashboard Portofolio.jpg"> </kbd> <br>
-    Gambar 3 — Dashboard Saham Optimal
+    Gambar 3 — <a href="https://lookerstudio.google.com/reporting/feda5c98-ea8e-46a9-aa6a-cadb7e207c58">Dashboard Saham Optimal</a>
 </p>
