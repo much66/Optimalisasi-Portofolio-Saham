@@ -38,13 +38,10 @@ Perusahaan Hedge Fund dan Reksa Dana menghadapi tantangan dalam mengelola portof
 <br>
 
 ## 📂 Insight
-- Tingkat default kredit nasabah dari dataset mencapai 9%
-- Karakteristik mayoritas nasabah yang cenderung mengalami masalah dalam pembayaran kredit yaitu:
-  - Laki-laki
-  - Kelompok pendidikan rendah, "lower secondary"
-  - Rentang usia 25 - 40 tahun
-  - Lama bekerja 1 - 5 tahun
-  - Tipe kredit "Cash Loan"
+- Prediksi harga setiap saham 7 periode mendatang
+- Maksimal kerugian setiap saham
+- Kestabilan harga setiap saham
+- Rekomendasi saham berdasarkan Volatility dan VaR Terkecil
 <br>
 
 ## 📂 Modeling and Evaluation
@@ -57,12 +54,12 @@ Perusahaan Hedge Fund dan Reksa Dana menghadapi tantangan dalam mengelola portof
 <br>
 <p align="center">
     <kbd> <img width="800" alt="feats" src="#"> </kbd> <br>
-    Gambar 2 — Feature Importance
+    Gambar 2 — Perbandingan model
 </p>
 <br>
 
 
 ## 📂 Recommendations
-- Mempertimbangkan untuk membuat Credit Scorecard, menggunakan Information Value dan Feature Engineering menggunakan Weight of Evidence
-- Melakukan analisis kredit yang lebih mendalam 
-- Meningkatkan seleksi calon peminjam dengan memperketat persyaratan dan mengumpulkan informasi yang lebih lengkap tentang calon peminjam
+- Penggunaan Metode Prophet dan Simulasi Monte Carlo: Gunakan Prophet untuk prediksi harga saham dan Simulasi Monte Carlo untuk memperkirakan skenario pergerakan harga di masa depan, memahami risiko dan return dengan lebih baik.
+- Portofolio Jangka Pendek: Fokuskan investasi pada jangka pendek (1-3 bulan) untuk responsif terhadap perubahan pasar, monitor kinerja secara berkala, dan sesuaikan portofolio dengan analisis risiko terkini.
+- Diversifikasi Saham dengan Volatilitas dan VaR Terendah: Diversifikasikan portofolio dengan saham berisiko rendah, prioritaskan kestabilan harga dan minimalkan potensi kerugian, sehingga portofolio tetap terlindungi dari fluktuasi ekstrem dan memberikan return yang stabil.
