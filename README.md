@@ -1,6 +1,6 @@
 # Optimalisasi-Portofolio-Saham
 
-**Dataset** : [source](https://www.kaggle.com/competitions/home-data-for-ml-course/data) <br>
+**Dataset** : Private Dataset <br>
 **Notebook** : [view](https://github.com/much66/Optimalisasi-Portofolio-Saham/blob/main/Banking_Stock_Forecasting.ipynb)<br>
 **Deck** : [view](https://github.com/much66/Optimalisasi-Portofolio-Saham/blob/main/Deck%20Presentasi.pdf)<br>
 
